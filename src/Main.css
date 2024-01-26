@@ -1,0 +1,25 @@
+*{
+    font-family: Poppins;
+
+}
+
+nav{
+    background-color: aqua;
+}
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+
+nav li{
+    list-style: none;
+    
+    display: inline-block;
+    color: black;
+}
+
+.nav-link{
+    text-decoration: none;
+}
